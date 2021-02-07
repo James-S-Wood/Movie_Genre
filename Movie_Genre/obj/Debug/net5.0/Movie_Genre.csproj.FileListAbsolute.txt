@@ -1,0 +1,15 @@
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/bin/Debug/net5.0/Movie_Genre.deps.json
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/bin/Debug/net5.0/Movie_Genre.runtimeconfig.json
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/bin/Debug/net5.0/Movie_Genre.runtimeconfig.dev.json
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/bin/Debug/net5.0/Movie_Genre.dll
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/bin/Debug/net5.0/ref/Movie_Genre.dll
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/bin/Debug/net5.0/Movie_Genre.pdb
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/obj/Debug/net5.0/Movie_Genre.csprojAssemblyReference.cache
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/obj/Debug/net5.0/Movie_Genre.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/obj/Debug/net5.0/Movie_Genre.AssemblyInfoInputs.cache
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/obj/Debug/net5.0/Movie_Genre.AssemblyInfo.cs
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/obj/Debug/net5.0/Movie_Genre.csproj.CoreCompileInputs.cache
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/obj/Debug/net5.0/Movie_Genre.dll
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/obj/Debug/net5.0/ref/Movie_Genre.dll
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/obj/Debug/net5.0/Movie_Genre.pdb
+/Users/jameswood/RiderProjects/Movie_Genre/Movie_Genre/obj/Debug/net5.0/Movie_Genre.genruntimeconfig.cache
